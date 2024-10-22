@@ -4,22 +4,27 @@ const servicesData = [
   {
     title: 'Diseño Arquitectónico',
     description: 'Creamos espacios funcionales y estéticamente atractivos para cualquier tipo de proyecto.',
-    image: '/path-to-image/design.jpg'
+    image: '/imagenes/espacio.png'
   },
   {
     title: 'Supervisión de Obras',
     description: 'Supervisamos y gestionamos cada fase de la construcción para garantizar calidad y cumplimiento de plazos.',
-    image: '/path-to-image/supervision.jpg'
+    image: '/imagenes/supervi.png'
   },
   {
     title: 'Consultoría',
     description: 'Ofrecemos asesoramiento experto para la toma de decisiones técnicas en el diseño y construcción.',
-    image: '/path-to-image/consultoria.jpg'
+    image: '/imagenes/Designer.jpeg'
+  },
+  {
+    title: 'Avalúos y Asesoría Inmobiliaria',
+    description: 'Ofrecemos servicios de avalúos y asesoría inmobiliaria personalizados, diseñados para satisfacer las necesidades específicas de nuestros clientes. Nuestro equipo de expertos está altamente capacitado para realizar avalúos precisos y confiables, asegurando que obtengas el valor real de tus propiedades.',
+    image: '/imagenes/Avalúos y Asesoría Inmobiliaria.jpeg'
   },
   {
     title: 'Interventoría',
     description: 'Supervisamos la correcta ejecución de las obras, asegurando el cumplimiento de los estándares técnicos y normativos en cada fase del proyecto.',
-    image: '/path-to-image/interventoria.jpg'
+    image: '/imagenes/Interventoria.png'
   }
   
 ];
