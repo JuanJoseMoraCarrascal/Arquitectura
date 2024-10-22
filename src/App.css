@@ -1,3 +1,10 @@
+.App {
+  background-color: #f0f0f093; 
+  min-height: 100vh; 
+  display: flex; 
+  flex-direction: column; 
+}
+
 .home-container {
   max-width: 1200px;
   margin: 0 auto;
@@ -20,12 +27,14 @@
   border-radius: 10px;
   padding: 20px;
   box-shadow: 0 4px 8px rgba(7, 2, 2, 0.1);
-  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .service-card:hover {
   transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(7, 2, 2, 0.2);
 }
+
 
 .service-image {
   width: 100%;
