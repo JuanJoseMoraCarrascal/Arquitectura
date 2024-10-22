@@ -42,7 +42,6 @@
   overflow: hidden; /* Para ocultar desbordes */
 }
 
-
 .service-card:hover {
   transform: translateY(-5px) scale(1.05); /* Levanta y aumenta el tamaño de la tarjeta */
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); /* Sombra más intensa */
