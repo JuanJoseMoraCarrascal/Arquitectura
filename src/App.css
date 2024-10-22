@@ -16,10 +16,10 @@
 }
 
 .service-card {
-  background-color: #f9f9f9;
+  background-color: #4560b6;
   border-radius: 10px;
   padding: 20px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(7, 2, 2, 0.1);
   transition: transform 0.3s ease;
 }
 
@@ -41,5 +41,5 @@
 
 .service-description {
   font-size: 1rem;
-  color: #666;
+  color: #fcf9f9;
 }
