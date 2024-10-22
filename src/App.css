@@ -25,7 +25,7 @@
 
 .home-header p {
   font-size: 1.5rem; /* Aumentar ligeramente */
-  color: #555; /* Cambiado a un gris más suave para mejorar el contraste */
+  color: #555; 
   margin-bottom: 20px;
 }
 .services-section {
@@ -41,7 +41,7 @@
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); /* Sombra  */
   transition: transform 0.3s ease, box-shadow 0.3s ease; /* Efecto */
   position: relative; /* Posicionamiento  */
-  overflow: hidden; /* ocultar desbordes */
+  overflow: hidden; /* ocultar desbirdes */
 }
 
 .service-card:hover {
@@ -90,6 +90,6 @@
   }
 
   .service-image {
-    height: 180px; /* Ajuste de la imagen en pantallas pequeñas */
+    height: 180px; /* Ajustes de imagen en pantallas pequeñas */
   }
 }
